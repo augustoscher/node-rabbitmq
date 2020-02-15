@@ -1,4 +1,4 @@
-## node-rabbitmq
+### node-rabbitmq
 
 #### Running RabbitMQ container
 ```bash
@@ -10,5 +10,4 @@ docker run \
  --hostname rabbitmq-master \
  -d \
  rabbitmq:3-management
- 
 ```
