@@ -1,4 +1,6 @@
 #### Running two workers and tasks
+Following https://www.rabbitmq.com/tutorials/tutorial-two-javascript.html
+
 1. Terminal 1
 ```bash
 cd work-queues
